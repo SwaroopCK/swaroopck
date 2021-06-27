@@ -54,7 +54,7 @@
 <!-- [youtube]: https://youtube.com/singhkunal2050 -->
 [instagram]: https://instagram.com/Swaroop_CK
 [linkedin]: https://linkedin.com/in/swaroop-korde-2559801aa
-[TodoList]: https://cpu-scheduling.netlify.app/
+[CPU_SCHEDULING]: https://cpu-scheduling.netlify.app/
 
 <br />
 
