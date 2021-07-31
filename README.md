@@ -6,7 +6,7 @@
 ## I'm a Developer, Student, Learner!
 
 - 🔭 I’m currently working on a [CPU-Scheduling][CPU_SCHEDULING]!
-- 🌱 I’m currently pursuing M.Sc.Computer Science. 
+- 🌱 I’m currently pursuing M.Sc.Computer Application. 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
