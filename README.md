@@ -5,10 +5,10 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [CPU-Scheduling][CPU_SCHEDULING]!
+- 🔭 I’m currently working on a [Inventory_Management_System][POS]!
 - 🌱 I’m currently pursuing M.Sc.Computer Application. 
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2022 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
 
 <!-- ### Spotify Playing 🎧
@@ -54,7 +54,7 @@
 <!-- [youtube]: https://youtube.com/singhkunal2050 -->
 [instagram]: https://instagram.com/Swaroop_CK
 [linkedin]: https://linkedin.com/in/swaroop-korde-2559801aa
-[CPU_SCHEDULING]: https://cpu-scheduling.netlify.app/
+[POS]: https://github.com/SwaroopCK/Point_Of_Sales
 
 <br />
 
