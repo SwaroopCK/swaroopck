@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Student, Learner!
 
-- 🔭 I’m currently working on a [Inventory_Management_System][POS]!
+- 🔭 I’m currently working on a android project - [Inventory_Management_System][POS]!
 - 🌱 I’m currently pursuing M.Sc.Computer Application. 
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
