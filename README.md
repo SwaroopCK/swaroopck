@@ -8,7 +8,7 @@
 - 🔭 I’m currently Learning Cucumber in Automation
 - 🌱 I’m currently pursuing M.Sc.Computer Application. 
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2024 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love trekking and listening to music.
 
 <!-- ### Spotify Playing 🎧
