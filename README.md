@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Swaroop_CK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwaroop_CK&screen_name=Swaroop_CK)
 [![Website](https://img.shields.io/website?label=swaroopck.netlify.app&style=for-the-badge&url=https%3A%2F%2Fswaroopck.netlify.app)](https://swaroopck.netlify.app)
 
-## I'm a Developer, Student, Learner!
+## I'm a QA, Student, Learner!
 
 - 🔭 I’m currently Learning Cucumber in Automation
 - 🌱 I’m currently pursuing M.Sc.Computer Application. 
