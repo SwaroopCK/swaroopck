@@ -3,11 +3,11 @@
 
 <!--[![Website](https://img.shields.io/website?label=swaroopck.netlify.app&style=for-the-badge&url=https%3A%2F%2Fswaroopck.netlify.app)](https://swaroopck.netlify.app)-->
 
-## I'm a QA, Student, Learner!
+## I'm a Qualtiy Assurance Engineer, Learner!
 
 - 🔭 I’m currently Learning Cucumber in Automation
 - 🌱 I’m Working as Automation Test Engineer
-- 🥅 2024 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2024 Goals: Contribute more to Open Source projects and Work on latest technology to automate applications
 - ⚡ Fun fact: I love trekking and listening to music.
 
 <!-- ### Spotify Playing 🎧
